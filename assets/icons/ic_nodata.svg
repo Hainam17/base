@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="86" height="79" viewBox="0 0 86 79">
+  <g id="ic_nodata" transform="translate(450 339)">
+    <rect id="Rectangle_1051" data-name="Rectangle 1051" width="60" height="60" rx="8.111" transform="translate(-445 -321)" fill="#606b85" opacity="0.1"/>
+    <rect id="Rectangle_1052" data-name="Rectangle 1052" width="60" height="60" rx="8.111" transform="translate(-436 -327)" stroke-width="2" stroke="#606b85" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+    <line id="Line_69" data-name="Line 69" y2="9" transform="translate(-398 -331)" fill="none" stroke="#606b85" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+    <line id="Line_70" data-name="Line 70" y2="9" transform="translate(-394 -327)" fill="none" stroke="#606b85" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+    <line id="Line_71" data-name="Line 71" y2="14" transform="translate(-390 -336)" fill="none" stroke="#606b85" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+    <line id="Line_72" data-name="Line 72" y2="15" transform="translate(-385 -330)" fill="none" stroke="#606b85" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+    <path id="Path_521" data-name="Path 521" d="M-416-288l3,2,3-3,3,3,3-3,3,3,3-2" fill="none" stroke="#606b85" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+    <line id="Line_73" data-name="Line 73" x2="6" y2="6" transform="translate(-424 -302)" fill="none" stroke="#ff95b1" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+    <line id="Line_74" data-name="Line 74" x1="6" y2="6" transform="translate(-424 -302)" fill="none" stroke="#ff95b1" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+    <line id="Line_75" data-name="Line 75" x2="6" y2="6" transform="translate(-396 -302)" fill="none" stroke="#ff95b1" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+    <line id="Line_76" data-name="Line 76" x1="6" y2="6" transform="translate(-396 -302)" fill="none" stroke="#ff95b1" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+    <circle id="Ellipse_100" data-name="Ellipse 100" cx="2.5" cy="2.5" r="2.5" transform="translate(-370 -312)" stroke-width="2" stroke="#606b85" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+    <circle id="Ellipse_101" data-name="Ellipse 101" cx="3" cy="3" r="3" transform="translate(-435 -339)" fill="#fd93af"/>
+    <circle id="Ellipse_102" data-name="Ellipse 102" cx="2" cy="2" r="2" transform="translate(-450 -264)" fill="#606b85"/>
+  </g>
+</svg>
